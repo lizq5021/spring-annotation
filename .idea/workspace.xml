@@ -43,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainConfig.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-annotation-01/src/main/java/cn/suhuanzhen/congig/MainConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -61,10 +61,22 @@
         <entry file="file://$PROJECT_DIR$/spring-annotation-01/src/test/java/cn/suhuanzhen/IOCTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="14" selection-start-line="14" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="25">
+                <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -79,6 +91,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -92,6 +107,7 @@
         <option value="$PROJECT_DIR$/spring-annotation-01/src/test/java/cn/suhuanzhen/IOCTest.java" />
         <option value="$PROJECT_DIR$/spring-annotation-01/src/main/resources/bean.xml" />
         <option value="$PROJECT_DIR$/spring-annotation-01/src/main/java/cn/suhuanzhen/congig/MainConfig.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -117,12 +133,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -141,55 +158,6 @@
               <item name="spring-annotation" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-annotation" type="462c0819:PsiDirectoryNode" />
               <item name="spring-annotation-01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-annotation-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-annotation-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-annotation-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-annotation-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-annotation-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-annotation-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="suhuanzhen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-annotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -314,7 +282,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535274787235</updated>
-      <workItem from="1535274788629" duration="3907000" />
+      <workItem from="1535274788629" duration="4538000" />
     </task>
     <servers />
   </component>
@@ -328,9 +296,12 @@
     <history-entry file="IOCTest_test01 - 2018.08.26 at 18h 16m 34s.xml">
       <configuration name="IOCTest.test01" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IOCTest_test01 - 2018.08.26 at 18h 18m 25s.xml">
+      <configuration name="IOCTest.test01" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3907000" />
+    <option name="totallyTimeSpent" value="4538000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,11 +332,11 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38795987" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38795987" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Spring" sideWeight="0.49924356" weight="0.36287627" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49924356" weight="0.32943144" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1603631" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26399395" />
       <window_info anchor="right" id="BPMNPalette" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.73676246" weight="0.32943144" />
       <window_info anchor="right" id="Theme Preview" />
@@ -457,16 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-annotation-01/src/test/java/cn/suhuanzhen/IOCTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-annotation-01/src/main/java/cn/suhuanzhen/congig/MainConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -476,6 +437,26 @@
             <element signature="e#445#446#0" expanded="true" />
             <element signature="e#488#489#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-annotation-01/src/test/java/cn/suhuanzhen/IOCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
