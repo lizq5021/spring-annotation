@@ -1,9 +1,8 @@
 package cn.suhuanzhen;
 
 import cn.suhuanzhen.bean.Person;
-import cn.suhuanzhen.congig.MainConfig;
+import cn.suhuanzhen.config.MainConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * @version 1.0

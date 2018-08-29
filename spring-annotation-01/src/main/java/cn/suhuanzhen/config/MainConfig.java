@@ -1,4 +1,4 @@
-package cn.suhuanzhen.congig;
+package cn.suhuanzhen.config;
 
 import cn.suhuanzhen.bean.Person;
 import org.springframework.context.annotation.Bean;
@@ -17,12 +17,15 @@ import org.springframework.stereotype.Service;
 //配置类=配置文件
 @Configuration //告诉spring这是一个配置类
 @ComponentScan(value = "cn.suhuanzhen",includeFilters = {
-    @ComponentScan.Filter(type = FilterType.ANNOTATION,classes = {Controller.class,Service.class})
+    /*@ComponentScan.Filter(type = FilterType.ANNOTATION,classes = {Controller.class,Service.class})*/
+        @ComponentScan.Filter(type = FilterType.CUSTOM,classes = {MyTypeFilter.class})
 },useDefaultFilters = false)
 //@ComponentScan(value = "cn.suhuanzhen") valu指定要扫描的包
 //excludeFilters = Filter[] : 指定扫描时按照什么规则排除那些组件
 //includeFilters = Filter[] : 指定扫描的时候只需要包含那些组件
-
+//FilterType.ANNOTATION:按照注解
+//FilterType.ASSIGNABLE_TYPE：按照给定的类型
+//FilterType.CUSTOM：使用自定义规则
 public class MainConfig {
 
     /**
